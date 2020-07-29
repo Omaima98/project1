@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 7C56-7F06
+
+ R‚pertoire de C:\Users\G I E\Desktop\My project
+
+29/07/2020  10:06    <DIR>          .
+29/07/2020  10:06    <DIR>          ..
+29/07/2020  10:06                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  325ÿ696ÿ032ÿ768 octets libres
